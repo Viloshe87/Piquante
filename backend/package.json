@@ -6,10 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viloshe87/Piquante.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.3",
-    "mongoose": "^6.2.2"
-  }
+  "bugs": {
+    "url": "https://github.com/Viloshe87/Piquante/issues"
+  },
+  "homepage": "https://github.com/Viloshe87/Piquante#readme"
 }
